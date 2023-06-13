@@ -1,0 +1,77 @@
+body{
+    margin: 80px 370px;
+    border-radius: 40px;
+    font-size: large;
+    font-family: 'harrington';
+
+}
+section{
+    background-color: rgb(31, 31, 195);
+    position: relative;
+    height: 100%;
+    padding: 10px;
+	border-style: solid;
+    border-radius: 20px;
+	box-shadow: 30px 30px, black;
+}
+.respuesta{
+    margin-left: 25px;
+    background-color: rgb(174, 164, 164);
+    font-size: xx-large;
+    border-radius: 10px;
+    width: 90%;
+    position: relative;
+    top: 30px;
+    height: 18%;
+}
+.Numero{
+    position: relative;
+    top: 10%;
+    padding: 18px;
+}
+.Numeros{
+    width: 76px;
+    height: 80px;
+    background-color: rgb(34, 34, 107);
+    font-size: x-large;
+    margin-bottom: 3px;
+    border-radius: 15px;
+}
+.cero{
+width: 160px;
+height: 50px;
+background-color: rgb(34, 34, 107);
+font-size: x-large;
+    border-radius: 15px
+}
+.coma{
+    width: 73px;
+    height: 55px;
+    background-color: rgb(34, 34, 107);
+        border-radius: 15px;
+        font-size: x-large;
+}
+.accion{
+    height: 80%;
+     float: right;
+      width: 36%;
+     position: relative;
+     bottom: 320px;
+     left: 30px;
+     padding: 28px;
+     margin-bottom: 10px;
+     
+}
+.acciones{
+    padding: 25px;
+    padding-top: 30px;
+    margin-bottom: 3px;
+    background-color: rgb(34, 34, 107);
+    font-size: x-large;
+    border-radius: 15px;
+}
+.cerocoma{
+position: relative;
+bottom: 15px;
+left: 29px;
+}
